@@ -15,9 +15,9 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/Spendy/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/Spendy/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/Spendy/privacy.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/Spendy/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/Spendy/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/Spendy/privacy.html | ✅ Active |
 
 Note: Terms of Use not required for Free apps.
 
